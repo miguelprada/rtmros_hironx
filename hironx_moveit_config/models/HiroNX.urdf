@@ -202,82 +202,6 @@
       <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
     </inertial>
   </link>
-  <link name="LHAND_JOINT0_Link">
-    <visual>
-      <origin xyz="-0.0299 -0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT0_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0299 -0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT0_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
-  <link name="LHAND_JOINT1_Link">
-    <visual>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT1_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT1_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
-  <link name="LHAND_JOINT2_Link">
-    <visual>
-      <origin xyz="-0.0299 0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT2_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0299 0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT2_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
-  <link name="LHAND_JOINT3_Link">
-    <visual>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT3_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/LHAND_JOINT3_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
   <link name="RARM_JOINT0_Link">
     <visual>
       <origin xyz="0 -0.145 0.370296" rpy="0.261799 -0 0"/>
@@ -392,82 +316,6 @@
       <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
     </inertial>
   </link>
-  <link name="RHAND_JOINT0_Link">
-    <visual>
-      <origin xyz="-0.0299 -0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT0_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0299 -0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT0_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
-  <link name="RHAND_JOINT1_Link">
-    <visual>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT1_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT1_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
-  <link name="RHAND_JOINT2_Link">
-    <visual>
-      <origin xyz="-0.0299 0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT2_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0299 0.033 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT2_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
-  <link name="RHAND_JOINT3_Link">
-    <visual>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT3_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </visual>
-    <collision>
-      <origin xyz="-0.0419 0 0" rpy="0 -0 0"/>
-      <geometry>
-        <mesh filename="package://hironx_moveit_config/models/meshes/RHAND_JOINT3_Link_mesh.dae" scale="1 1 1" />
-      </geometry>
-    </collision>
-    <inertial>
-      <mass value="0.01" />
-      <origin xyz="0 0 0" rpy="0 -0 0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
-    </inertial>
-  </link>
   <joint name="CHEST_JOINT0" type="revolute">
     <parent link="WAIST"/>
     <child  link="CHEST_JOINT0_Link"/>
@@ -540,38 +388,6 @@
     <limit lower="-2.84489" upper="2.84489" effort="100" velocity="0.5" />
     <dynamics damping="0.2" friction="0" />
   </joint>
-  <joint name="LHAND_JOINT0" type="revolute">
-    <parent link="LARM_JOINT5_Link"/>
-    <child  link="LHAND_JOINT0_Link"/>
-    <origin xyz="-0.0299 -0.033 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="LHAND_JOINT1" type="revolute">
-    <parent link="LHAND_JOINT0_Link"/>
-    <child  link="LHAND_JOINT1_Link"/>
-    <origin xyz="-0.0419 0 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="LHAND_JOINT2" type="revolute">
-    <parent link="LARM_JOINT5_Link"/>
-    <child  link="LHAND_JOINT2_Link"/>
-    <origin xyz="-0.0299 0.033 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="LHAND_JOINT3" type="revolute">
-    <parent link="LHAND_JOINT2_Link"/>
-    <child  link="LHAND_JOINT3_Link"/>
-    <origin xyz="-0.0419 0 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
   <joint name="RARM_JOINT0" type="revolute">
     <parent link="CHEST_JOINT0_Link"/>
     <child  link="RARM_JOINT0_Link"/>
@@ -618,38 +434,6 @@
     <origin xyz="-0.04 0 -0.09" rpy="0 -0 0 "/>
     <axis   xyz="1 0 0"/>
     <limit lower="-2.84489" upper="2.84489" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="RHAND_JOINT0" type="revolute">
-    <parent link="RARM_JOINT5_Link"/>
-    <child  link="RHAND_JOINT0_Link"/>
-    <origin xyz="-0.0299 -0.033 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="RHAND_JOINT1" type="revolute">
-    <parent link="RHAND_JOINT0_Link"/>
-    <child  link="RHAND_JOINT1_Link"/>
-    <origin xyz="-0.0419 0 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="RHAND_JOINT2" type="revolute">
-    <parent link="RARM_JOINT5_Link"/>
-    <child  link="RHAND_JOINT2_Link"/>
-    <origin xyz="-0.0299 0.033 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
-    <dynamics damping="0.2" friction="0" />
-  </joint>
-  <joint name="RHAND_JOINT3" type="revolute">
-    <parent link="RHAND_JOINT2_Link"/>
-    <child  link="RHAND_JOINT3_Link"/>
-    <origin xyz="-0.0419 0 0" rpy="0 -0 0 "/>
-    <axis   xyz="0 0 1"/>
-    <limit lower="-0.523599" upper="0.523599" effort="100" velocity="0.5" />
     <dynamics damping="0.2" friction="0" />
   </joint>
 </robot>

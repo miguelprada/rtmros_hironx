@@ -108,26 +108,6 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          LHAND_JOINT0_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          LHAND_JOINT1_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          LHAND_JOINT2_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          LHAND_JOINT3_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
           Link Tree Style: Links in Alphabetic Order
           RARM_JOINT0_Link:
             Alpha: 1
@@ -155,26 +135,6 @@ Visualization Manager:
             Show Trail: false
             Value: true
           RARM_JOINT5_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT0_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT1_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT2_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT3_Link:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -271,26 +231,6 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          LHAND_JOINT0_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          LHAND_JOINT1_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          LHAND_JOINT2_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          LHAND_JOINT3_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
           Link Tree Style: Links in Alphabetic Order
           RARM_JOINT0_Link:
             Alpha: 1
@@ -318,26 +258,6 @@ Visualization Manager:
             Show Trail: false
             Value: true
           RARM_JOINT5_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT0_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT1_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT2_Link:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          RHAND_JOINT3_Link:
             Alpha: 1
             Show Axes: false
             Show Trail: false
